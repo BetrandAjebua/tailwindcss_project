@@ -4,7 +4,7 @@
   "description": "This is my first tailwindcss site that is completely front -end and designed using tailwind css.",
   "main": "tailwind.config.js",
   "scripts": {
-    "tailwind": "npx tailwindcss -i ./src/input.css -o ./build/css/style.css --watch",
+    "tailwind": "npx tailwindcss -i ./src/input.css -o ./build/css/output.css --watch",
     "prettier": "npx prettier --write  '**/*.html"
   },
   "keywords": [],

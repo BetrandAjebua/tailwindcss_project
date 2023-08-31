@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.rad-back{
+    background: linear-gradient(red, white, red);
+}
